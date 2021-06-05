@@ -15,6 +15,7 @@ body {
   color: white;
   font-family: 'Mate SC', serif;
   font-family: 'Nanum Gothic Coding', monospace;
+  font-size:160%;
   
 }
 <body>
