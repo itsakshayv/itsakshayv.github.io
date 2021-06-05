@@ -18,7 +18,9 @@ body {
   font-size:160%;
   
 }
+</style>
 <body>
+</head>
 
 
 <img src="https://raw.githubusercontent.com/itsakshayv/itsakshayv.github.io/main/IMG_20210605_095454.jpg" alt="raw.githubusercontent.com" style="width:200px;height:200px;">
@@ -26,6 +28,6 @@ body {
 Open Source Contributer,Tech Lover and Trying to Updating
 My Self Every Day :)</p>
     
-</head>
+
 </body>
 </html> 
