@@ -12,10 +12,11 @@ img {
 body {
   background:#303030;
   text-align: center;
+  text-size:160%;
   color: white;
   font-family: 'Mate SC', serif;
   font-family: 'Nanum Gothic Coding', monospace;
-  font-size:160%;
+  
   
 }
 <h1 style="font-family:verdana;">Akshay</h1>
