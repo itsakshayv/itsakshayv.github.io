@@ -10,7 +10,7 @@ img {
   border-radius: 50%;
 }
 body {
-  background: linear-gradient(to bottom, #666699 17%, #ffffff 128%);
+  background:#303030;
   text-align: center;
   color: white;
   font-family: 'Mate SC', serif;
