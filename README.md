@@ -18,10 +18,10 @@ body {
   font-size:160%;
   
 }
-<body>
 <h1 style="font-family:verdana;">Akshay</h1>
 </style>
 </head>
+<body>
 <img src="https://raw.githubusercontent.com/itsakshayv/itsakshayv.github.io/main/IMG_20210605_095454.jpg" alt="raw.githubusercontent.com" style="width:300px;height:300px;">
 <p>Hi This is Akshay,Computer Science Student From India.
 Open Source Contributer,Tech Lover and Trying to Updating
