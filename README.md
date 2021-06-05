@@ -17,14 +17,10 @@ body {
   font-family: 'Nanum Gothic Coding', monospace;
   
 }
-</style>
-</head>
 <body>
-
 <h1 style="font-family:verdana;">Akshay</h1>
 </style>
 </head>
-<body>
 <img src="https://raw.githubusercontent.com/itsakshayv/itsakshayv.github.io/main/IMG_20210605_095454.jpg" alt="raw.githubusercontent.com" style="width:200px;height:200px;">
 <p>Hi This is Akshay,Computer Science Student From India.
 Open Source Contributer,Tech Lover and Trying to Updating
