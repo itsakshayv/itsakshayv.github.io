@@ -5,6 +5,21 @@
 <link href="https://fonts.googleapis.com/css2?family=Mate+SC&family=Nanum+Gothic+Coding&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
+  .blink {
+  animation: blink 1s steps(1, end) infinite;
+}
+
+@keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
 div.p {
   border: 1px solid white;
   }
@@ -198,7 +213,8 @@ img {
 
                 <div class="main" id="section1">
  
-                <h1>Hello</h1>
+                <p><h1>Hello</h1> <span class="blink">blink</span>
+</p>
                 <img src="https://raw.githubusercontent.com/itsakshayv/itsakshayv.github.io/main/resource/profile%20pic.jpg" alt="raw.githubusercontent.com" style="width:250px;height:250px;">
                 <h2>Akshay V</h2>
                 <h3>Open Source Contributor|Tech Lover|Programmer|</h3>
